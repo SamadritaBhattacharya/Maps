@@ -1,6 +1,6 @@
 window.onload = function(){
 
-    L.mapquest.key = 'rSiqvvMoywE3G0EyNcrRfPzhxwA3GAo5'; 
+    L.mapquest.key = 'API_KEY'; 
 
     const map = L.mapquest.map('map', {
     center: [37.7749, -122.4194],
